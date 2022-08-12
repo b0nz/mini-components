@@ -61,7 +61,7 @@ const IconWrapper = styled.div`
   margin: auto;
   width: var(--size);
   height: var(--size);
-  pointer-event: none;
+  pointer-events: none;
 `;
 
 export default Select;
